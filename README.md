@@ -1,4 +1,4 @@
-# gitsearch
+# Toronto Waste Search
 
 > A Vue.js project
 
